@@ -25,8 +25,8 @@ To ensure high-quality analytical outputs, I performed a rigorous ETL (Extract, 
 ![Trade Analysis Dashboard](dashboard_preview.png)
 
 ## 🔗 Project Links
-* **Interactive Dashboard:** [PASTE YOUR TABLEAU PUBLIC LINK HERE]
-* **GitHub Repository:** [PASTE YOUR GITHUB REPO LINK HERE]
+* **Interactive Dashboard:** [www.linkedin.com/in/pavithra-krishnan2001]
+
 
 ---
-*Developed by a Google Certified Data Analyst based in Thiruvananthapuram, Kerala.*
+*Developed by a Google Certified Data Analyst based in Kerala.*
